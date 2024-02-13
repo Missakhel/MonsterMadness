@@ -1,0 +1,77 @@
+quitar los tag de ventana  toreeta
+y cambiar a hit  todo
+para que el enemigo no tenga michas if en trigger solo hit
+tambien las balas
+
+
+para golpear la torreta o la nuez, el objeto que quieras que reciba el golpe tiene que ser el tag
+de  Hit    ese manda un mensaje al mismo nivel o hacia arriba  
+y las funciones de daño se deben llamar   Fn_SetDano  y reciben un float de daño
+
+para moverse:
+el obejto que quieras donde se puede mover debe tener el tag de piso y estar en el layer de escenario
+en caso de la escalera, al modelo ponerle el tag de Escalera,   y donde quieras que se mueva el jugador crear
+un objeto vacio llamado, subir y ahi se mueve, si quieres cambiar este nombre en el codigo de moverse lo puedes hacer
+
+jugador base:
+hay un prefab llamado pplayer, esta en 
+ steamvr/interactionsystem/core /prefabs
+
+los objetos que son tocados necesitan tener el codigo interaction,
+ese codigo detecta cuando "hand "  esta sobre ella,
+no detecta ningun objetop que no tenga el codigop hand,
+hand necesita tener una instancia del player en la escena
+
+la interaccion se maneja por eventosm,
+	
+
+al objeto que quieres comprar y poner en la tienda, ponerle el codigo TI_comprar
+este codigo te pide un objeto pero en si se usa para armas
+cuando eliges lo que vas a comprar, busca al jug_datos y entra a la funcion de comprar
+jud_datos   tiene tus almas, vida, defensa, datos en general para el juego
+al comprar hace los calculos de tu pago, busca la instancia del player y va a su righthand, ingresa al jug_arma y la funcion de comprar
+
+
+
+PARA LA HORDA
+ventana/minionMomia-minionFantasma-otrominion/Jefemomia-JefeFantasma-OtroJefe
+1/1-1/0-0
+
+
+----A CAMBIAR-----
+hay un objeto que se lama muro, ese tiene el codigo del mismo nombre y tiene un componente  m¡offsetmesh link y te pide 2 transform
+de ahi es donde va a empezar a cargar la animacion de saltar la ventana
+
+---CAMBIADO POSIBLE FINAL-------
+codigo de ventana, se le agrega como hijo un collider con el codigo de muro, y ese te pide un codigo de medio que por ahora se quito
+lo que 
+
+
+
+LYAER VENTANA Y  MANO
+para que el enemigo les pegue directamente a los objetos con la mano
+
+
+
+
+
+Tag
+Ventana
+Enemy
+Piso
+Escalera
+Mano
+Torreta
+
+LAYER
+Enemy     8
+Escenario
+Muerto, se lo cambio al enemigo para que no choque con cosas que ya se murieron    10
+Bala
+Mano
+Ventana
+Player
+
+
+
+

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a29694e98cf039742892ceecacf64c8d
+timeCreated: 1517341406
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - v_SaleBala: {instanceID: 0}
+  - v_miraPref: {fileID: 1227235544954024, guid: 52df323be2dfe8442995a17fc67198cb,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

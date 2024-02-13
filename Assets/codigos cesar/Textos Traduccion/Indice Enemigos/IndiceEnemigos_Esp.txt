@@ -1,0 +1,74 @@
+{
+	"info":[
+		{
+			"v_nombre":"MOMIA NORMAL",
+			"v_prefab":"Enemigos/Ind_Mummy_Minion",
+			"v_tipo":"TERRESTRE",
+			"v_tipoataque":"CUERPO A CUERPO",
+			"v_jefe":false,
+			"v_infoEfecto":"",
+			"v_extra":false,
+			"v_InfoExtra":""
+		},
+		{
+			"v_nombre":"MOMIA FARAÓN",
+			"v_prefab":"Enemigos/Ind_Mummy_Boss",
+			"v_tipo":"TERRESTRE",
+			"v_tipoataque":"CUERPO A CUERPO",
+			"v_jefe":true,
+			"v_infoEfecto":"Supercarga a las demás momias",
+			"v_extra":false,
+			"v_InfoExtra":""
+		},
+		{
+			"v_nombre":"CHUPACABRA NORMAL",
+			"v_prefab":"Enemigos/Ind_Chupacabra_Minion",
+			"v_tipo":"VOLADOR",
+			"v_tipoataque":"CUERPO A CUERPO",
+			"v_jefe":false,
+			"v_infoEfecto":"",
+			"v_extra":false,
+			"v_InfoExtra":""
+		},
+		{
+			"v_nombre":"CHUPACABRA PAPÁ",
+			"v_prefab":"Enemigos/Ind_Chupacabra_Boss",
+			"v_tipo":"VOLADOR",
+			"v_tipoataque":"CUERPO A CUERPO",
+			"v_jefe":true,
+			"v_infoEfecto":"RODEADO DE CHUPACABRAS GUARDIAS PARA PROTEGERLO",
+			"v_extra":false,
+			"v_InfoExtra":""
+		},
+		{
+			"v_nombre":"CHUPACABRA GUARDIA",
+			"v_prefab":"Enemigos/Ind_Acompa_Chupacabra",
+			"v_tipo":"VOLADOR", 
+			"v_tipoataque":"CUERPO A CUERPO",	
+			"v_jefe":false,
+			"v_infoEfecto":"",
+			"v_extra":true,
+			"v_InfoExtra":"PROTEGE AL JEFE"
+		},
+		{
+			"v_nombre":"FANTASMA NORMAL",
+			"v_prefab":"Enemigos/Ind_Ghost_Minion",
+			"v_tipo":"VOLADOR", 
+			"v_tipoataque":"CUERPO A CUERPO",
+			"v_jefe":false,
+			"v_infoEfecto":"",
+			"v_extra":false,
+			"v_InfoExtra":""
+		},
+		{
+			"v_nombre":"FANTASMA JEFE",
+			"v_prefab":"Enemigos/Ind_Ghost_Boss",
+			"v_tipo":"VOLADOR",
+			"v_tipoataque":"CUERPO A CUERPO",
+			"v_jefe":true,
+			"v_infoEfecto":"ATACA A LAS VENTANAS QUE NO ESTEN ROTAS, CUANDO ROMPE UNA SE MUEVE A LA SIGUIENTE Y DESPUES DE ESO ATACA AL JUGADOR",
+			"v_extra":false,
+			"v_InfoExtra":""
+		}
+	]
+}

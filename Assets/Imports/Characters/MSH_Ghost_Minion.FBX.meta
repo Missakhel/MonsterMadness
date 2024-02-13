@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: 3c3ba1ddd7b2b334ea7ada14494788de
+timeCreated: 1535122641
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Base Human
+    100004: Base HumanHead
+    100006: Base HumanJaw
+    100008: Base HumanLArmDigit11
+    100010: Base HumanLArmDigit12
+    100012: Base HumanLArmDigit13
+    100014: Base HumanLArmDigit21
+    100016: Base HumanLArmDigit22
+    100018: Base HumanLArmDigit23
+    100020: Base HumanLArmDigit31
+    100022: Base HumanLArmDigit32
+    100024: Base HumanLArmDigit33
+    100026: Base HumanLArmDigit41
+    100028: Base HumanLArmDigit42
+    100030: Base HumanLArmDigit43
+    100032: Base HumanLArmDigit51
+    100034: Base HumanLArmDigit52
+    100036: Base HumanLArmDigit53
+    100038: Base HumanLArmForearm
+    100040: Base HumanLArmPalm
+    100042: Base HumanLArmUpperarm
+    100044: Base HumanPelvis
+    100046: Base HumanPelvisBone001
+    100048: Base HumanPelvisBone001Bone001
+    100050: Base HumanRDigit11
+    100052: Base HumanRDigit12
+    100054: Base HumanRDigit13
+    100056: Base HumanRDigit21
+    100058: Base HumanRDigit22
+    100060: Base HumanRDigit23
+    100062: Base HumanRDigit31
+    100064: Base HumanRDigit32
+    100066: Base HumanRDigit33
+    100068: Base HumanRDigit41
+    100070: Base HumanRDigit42
+    100072: Base HumanRDigit43
+    100074: Base HumanRDigit51
+    100076: Base HumanRDigit52
+    100078: Base HumanRDigit53
+    100080: Base HumanRForearm
+    100082: Base HumanRibcage
+    100084: Base HumanRPalm
+    100086: Base HumanRUpperarm
+    100088: Base HumanSpine1
+    100090: Base HumanSpine2
+    100092: Base HumanSpine3
+    100094: MSH_Ghost_Minion
+    400000: //RootNode
+    400002: Base Human
+    400004: Base HumanHead
+    400006: Base HumanJaw
+    400008: Base HumanLArmDigit11
+    400010: Base HumanLArmDigit12
+    400012: Base HumanLArmDigit13
+    400014: Base HumanLArmDigit21
+    400016: Base HumanLArmDigit22
+    400018: Base HumanLArmDigit23
+    400020: Base HumanLArmDigit31
+    400022: Base HumanLArmDigit32
+    400024: Base HumanLArmDigit33
+    400026: Base HumanLArmDigit41
+    400028: Base HumanLArmDigit42
+    400030: Base HumanLArmDigit43
+    400032: Base HumanLArmDigit51
+    400034: Base HumanLArmDigit52
+    400036: Base HumanLArmDigit53
+    400038: Base HumanLArmForearm
+    400040: Base HumanLArmPalm
+    400042: Base HumanLArmUpperarm
+    400044: Base HumanPelvis
+    400046: Base HumanPelvisBone001
+    400048: Base HumanPelvisBone001Bone001
+    400050: Base HumanRDigit11
+    400052: Base HumanRDigit12
+    400054: Base HumanRDigit13
+    400056: Base HumanRDigit21
+    400058: Base HumanRDigit22
+    400060: Base HumanRDigit23
+    400062: Base HumanRDigit31
+    400064: Base HumanRDigit32
+    400066: Base HumanRDigit33
+    400068: Base HumanRDigit41
+    400070: Base HumanRDigit42
+    400072: Base HumanRDigit43
+    400074: Base HumanRDigit51
+    400076: Base HumanRDigit52
+    400078: Base HumanRDigit53
+    400080: Base HumanRForearm
+    400082: Base HumanRibcage
+    400084: Base HumanRPalm
+    400086: Base HumanRUpperarm
+    400088: Base HumanSpine1
+    400090: Base HumanSpine2
+    400092: Base HumanSpine3
+    400094: MSH_Ghost_Minion
+    2300000: //RootNode
+    2300002: MSH_Ghost_Minion
+    3300000: //RootNode
+    3300002: MSH_Ghost_Minion
+    4300000: MSH_Ghost_Minion
+    7400000: ANM_Ghost_Minion_Idle
+    7400002: ANM_Ghost_Minion_Attack01
+    7400004: ANM_Ghost_Minion_Move
+    7400006: ANM_Ghost_Minion_Death
+    9500000: //RootNode
+    13700000: MSH_Ghost_Minion
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: ANM_Ghost_Minion_Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 89
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ANM_Ghost_Minion_Attack01
+      takeName: Take 001
+      firstFrame: 90
+      lastFrame: 113
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.4150626
+        functionName: Activar
+        data: 
+        objectReferenceParameter: {fileID: 1499950756973482, guid: b4f68bb23be36ac4bbda3eda72ce172c,
+          type: 2}
+        floatParameter: 1
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.5262755
+        functionName: Activar
+        data: 
+        objectReferenceParameter: {fileID: 1499950756973482, guid: b4f68bb23be36ac4bbda3eda72ce172c,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ANM_Ghost_Minion_Move
+      takeName: Take 001
+      firstFrame: 130
+      lastFrame: 165
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ANM_Ghost_Minion_Death
+      takeName: Take 001
+      firstFrame: 180
+      lastFrame: 245
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: Fn_Layer
+        data: 
+        objectReferenceParameter: {fileID: 1499950756973482, guid: b4f68bb23be36ac4bbda3eda72ce172c,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.9609756
+        functionName: Fn_Muerte
+        data: 
+        objectReferenceParameter: {fileID: 1499950756973482, guid: b4f68bb23be36ac4bbda3eda72ce172c,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

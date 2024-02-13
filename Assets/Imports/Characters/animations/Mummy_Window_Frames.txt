@@ -1,0 +1,9 @@
+0-10 estático
+10-15 avanza algo como un paso
+25-39 avanza otro paso
+40-62 estático
+63-72 avanza otro paso
+
+
+72 total
+2.4 seg

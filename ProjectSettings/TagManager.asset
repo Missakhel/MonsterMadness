@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hit
+  - Ventana
+  - Piso
+  - Escalera
+  - Enemy
+  - Cabeza
+  - Mano
+  - projectile
+  - FxTemporaire
+  - ObjColision
+  - NoElimina
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Escenario
+  - Muerto
+  - Bala
+  - Mano
+  - Ventana
+  - Player
+  - "MiniCaba\xF1a"
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,51 @@
+{
+	"info":[
+		{
+			"v_nombre":"armas_2",
+			"v_infoEfecto":"Arma de poco daño, recarga rapida, costo medio",
+			"v_prefab":"Armas/Ind_Pistola",
+			"v_InfoExtra":"MEDIO"
+		},
+		{
+			"v_nombre":"armas_3",
+			"v_infoEfecto":"Arma de mucho daño, recarga rapida, costo medio",
+			"v_prefab":"Armas/Ind_Shotgun",
+			"v_InfoExtra":"CORTO"
+		},
+		{
+			"v_nombre":"armas_4",
+			"v_infoEfecto":"Arma de mucho daño, recarga lenta, costo alto",
+			"v_prefab":"Armas/Ind_Sniper",
+			"v_InfoExtra":"LARGO"
+		},
+		{
+			"v_nombre":"armas_5",
+			"v_infoEfecto":"Arma de mucho daño, un solo uso, costo medio",
+			"v_prefab":"Armas/Ind_Espada",
+			"v_InfoExtra":"CORTO"
+		},
+		{
+			"v_nombre":"armas_6",
+			"v_infoEfecto":"Recupera un porcentaje de tu vida, un solo uso, costo medio",
+			"v_prefab":"Armas/Ind_Curativo",
+			"v_InfoExtra":"MEDIO"
+		},{
+			"v_nombre":"armas_7",
+			"v_infoEfecto":"Se lanza al piso para que los enemigos que lo toquen sufran daño, recarga media, costo medio",
+			"v_prefab":"Armas/Ind_Venenosa",
+			"v_InfoExtra":"MEDIO"
+		},
+		{
+			"v_nombre":"armas_8",
+			"v_infoEfecto":"Se lanza al piso para que los enemigos que lo toquen queden inmovilizados, recarga media, costo medio",
+			"v_prefab":"Armas/Ind_Congela",
+			"v_InfoExtra":"MEDIO"
+		},
+		{
+			"v_nombre":"armas_1",
+			"v_infoEfecto":"Información Confidencial",
+			"v_prefab":"Armas/Ind_Otro",
+			"v_InfoExtra":"INFORMACIÓN CONFIDENCIAL"
+		}
+	]
+}

@@ -1,0 +1,35 @@
+{
+"info":
+	[
+		{"info":"Si una mina queda muy cerca de otra es posible que exploten ambas"},
+		{"info":"El arma que congela, afecta a objetivos cercanos"},
+		{"info":"Usa el radar en la mano de interacción para buscar a los enemigos restantes"},
+		{"info":"Compra torretas automáticas para defender ventanas"},
+		{"info":"Compra escudo a las ventanas para darle más tiempo de vida"},
+		{"info":"Los enemigos buscan las ventanas rotas más cercanas"},
+		{"info":"Protege al cristal Mágico"},
+		{"info":"El hechizo está disponible cuando los enemigos de la oleada ya están listos para atacar"},
+		{"info":"Usa el tiempo entre rondas para reparar ventanas"},
+		{"info":"Usa el tiempo entre rondas para recargar tus armas"},
+		{"info":"Usa el tiempo entre rondas para comprar torretas y escudo"},
+		{"info":"Puedes reparar todas las ventanas desde la tienda de cualquier ventana"},
+		{"info":"Los enemigos atacan al señuelo si está cerca de ellos"},
+		{"info":"Distrae a los enemigos con señuelos"},
+		{"info":"Elimina enemigos cercanos usando una mina"},
+	    {"info":"Las minas explotan si golpean el cuerpo de los enemigos"},
+		{"info":"Arma venenosa solo afecta a enemigos terrestres"},
+		{"info":"Arma francotirador puede matar a enemigos a la distancia"},
+		{"info":"Golpes a la cabeza del enemigo hacen mas daño que al cuerpo"},
+		{"info":"Arma congelante y mina es una buena combinación"},
+		{"info":"Puedes moverte sosteniendo la mina"},
+		{"info":"Puedes moverte sosteniendo el señuelo"},
+		{"info":"En la sección de tutorial puedes obtener información sobre el enemigo"},
+		{"info":"Puedes rendirte en el menú de pausa y guardar tu puntaje actual"},
+		{"info":"Al eliminar un enemigo te brinda una cantidad de créditos que sirven para comprar en las diferentes tiendas"},
+		{"info":"Recuerda proteger al cristal magico"},
+		{"info":"En el control de interacción, encontraras la vida del cristal magico"},
+		{"info":"Arriba del cristal se muestra el numero de oleada actual, asi mismo el tiempo restante entre ellas"},
+		{"info":"El hechizo en la tienda de items te puede salvar la vida"},
+		{"info":"Curate seguido"}
+	]
+}

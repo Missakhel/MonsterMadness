@@ -1,0 +1,401 @@
+{
+"info":
+	[
+		{
+			"v_key":"inicioMenu",
+			"v_value":"lo que va en el menu"
+		},
+		{
+			"v_key":"inicio",
+			"v_value":"Inicio"
+		},
+		{
+			"v_key":"inicio_tut",
+			"v_value":"Toca la cabaña con el control de interacción, y presiona gatillo para iniciar"
+		},
+		{
+			"v_key":"tutorial",
+			"v_value":"Tutorial"
+		},
+		{
+			"v_key":"idioma",
+			"v_value":"Idioma"
+		},
+		{
+			"v_key":"salir",
+			"v_value":"Salir"
+		},
+		{
+			"v_key":"idioma2",
+			"v_value":"Elige un idioma"
+		},
+		{
+			"v_key":"idiomaesp",
+			"v_value":"Español"
+		},
+		{
+			"v_key":"idiomaeng",
+			"v_value":"English"
+		},
+		{
+			"v_key":"confirma_1",
+			"v_value":"¿Es la primera vez que juegas, Que deseas hacer?"
+		},
+		{
+			"v_key":"confirma_1_0",
+			"v_value":"Ir a jugar"
+		},
+		{
+			"v_key":"confirma_1_1",
+			"v_value":"Ir a tutorial"
+		},
+		{
+			"v_key":"cancelar",
+			"v_value":"Cancelar"
+		},
+		{
+			"v_key":"si",
+			"v_value":"Sí"
+		},
+		{
+			"v_key":"no",
+			"v_value":"No"
+		},
+		{
+			"v_key":"confirma_1_2",
+			"v_value":"Ir al menú"
+		},
+		{
+			"v_key":"confirma_2",
+			"v_value":"¿Estás seguro de salir?"
+		},
+		{
+			"v_key":"consejos",
+			"v_value":"Tocalo con el control de interacción, y presiona gatillo para que de un consejo"
+		},
+		{
+			"v_key":"continuar",
+			"v_value":"Continuar"
+		},
+		{
+			"v_key":"continuarmay",
+			"v_value":"CONTINUAR"
+		},
+		{
+			"v_key":"TutorialMenu",
+			"v_value":"lo que va en el tutorial"
+		},
+		{
+			"v_key":"tuto_0",
+			"v_value":"Para iniciar el tutorial presiona gatillo"
+		},
+		{
+			"v_key":"tuto_1",
+			"v_value":"Enemigos cerca, presiona el botón lateral para usar tu radar"
+		},
+		{
+			"v_key":"tuto_2",
+			"v_value":"muévete presionando el botón central, busca la tienda y compra un arma"
+		},
+		{
+			"v_key":"tuto_3",
+			"v_value":"Se aplicará daño en un momento"
+		},
+		{
+			"v_key":"tuto_4",
+			"v_value":"Presiona el botón central del control para mostrar el menú de armas"
+		},
+		{
+			"v_key":"tuto_5",
+			"v_value":"Elige Curar"
+		},
+		{
+			"v_key":"tuto_6",
+			"v_value":"presiona gatillo para curarte"
+		},
+		{
+			"v_key":"tuto_7",
+			"v_value":"Busca la tienda de ítem"
+		},
+		{
+			"v_key":"tuto_8",
+			"v_value":"Felicidades, terminaste el tutorial"
+		},
+		{
+			"v_key":"tuto_9",
+			"v_value":"Iniciar Juego"
+		},
+		{
+			"v_key":"confirma_3",
+			"v_value":"¿Estás seguro?"
+		},
+		{
+			"v_key":"tuto_10",
+			"v_value":"Muévete a esta posición"
+		},
+		{
+			"v_key":"tuto_11",
+			"v_value":"Toca el objeto y presiona gatillo para comprar"
+		},
+		{
+			"v_key":"tuto_12",
+			"v_value":"Toca el objeto y mantén presionado gatillo para mantener en tu mano, suelta para lanzar"
+		},
+		{
+			"v_key":"tuto_13",
+			"v_value":"Acércate al botón para reparar la ventana"
+		},
+		{
+			"v_key":"tuto_14",
+			"v_value":"Control para interactuar"
+		},
+		{
+			"v_key":"tuto_15",
+			"v_value":"Control de armas"
+		},
+		{
+			"v_key":"tuto_16",
+			"v_value":"Elimina al enemigo "
+		},
+		{
+			"v_key":"tuto_17",
+			"v_value":"repara ventana desde este botón"
+		},
+		{
+			"v_key":"puntaje_1",
+			"v_value":"Puntajes más altos"
+		},
+		{
+			"v_key":"puntaje_0",
+			"v_value":"lo que es de puntaje"
+		},
+		{
+			"v_key":"puntaje_2",
+			"v_value":"Oleada"
+		},
+		{
+			"v_key":"puntaje_3",
+			"v_value":"Fecha/Hora"
+		},
+		{
+			"v_key":"puntaje_4",
+			"v_value":"Reiniciar puntajes"
+		},
+		{
+			"v_key":"puntaje_5",
+			"v_value":"¿Estás seguro de borrar?"
+		},
+		{
+			"v_key":"puntaje_6",
+			"v_value":"Registros no existentes, No se puede borrar"
+		},
+		{
+			"v_key":"puntaje_7",
+			"v_value":"Motivo"
+		},
+		{
+			"v_key":"enemigos_0",
+			"v_value":"lo que se ve en el idicie de enemigos"
+		},
+		{
+			"v_key":"enemigos_1",
+			"v_value":"Mostrar/Ocultar"
+		},
+		{
+			"v_key":"enemigos_2",
+			"v_value":"Siguiente"
+		},
+		{
+			"v_key":"enemigos_3",
+			"v_value":"NOMBRE"
+		},
+		{
+			"v_key":"enemigos_4",
+			"v_value":"TIPO"
+		},
+		{
+			"v_key":"enemigos_5",
+			"v_value":"INFORMACIÓN"
+		},
+		{
+			"v_key":"enemigos_7",
+			"v_value":"VIDA"
+		},
+		{
+			"v_key":"enemigos_8",
+			"v_value":"VELOCIDAD"
+		},
+		{
+			"v_key":"enemigos_9",
+			"v_value":"DAÑO"
+		},
+		{
+			"v_key":"enemigos_10",
+			"v_value":"TIPO ATAQUE"
+		},
+		{
+			"v_key":"enemigos_11",
+			"v_value":"JEFE"
+		},
+		{
+			"v_key":"enemigos_6",
+			"v_value":"HABILIDAD ESPECIAL"
+		},
+		{
+			"v_key":"menu_armas",
+			"v_value":"El menu de armas "
+		},
+		{
+			"v_key":"armas_1",
+			"v_value":"NO \nDISPONIBLE"
+		},
+		{
+			"v_key":"armas_2",
+			"v_value":"PISTOLA"
+		},
+		{
+			"v_key":"armas_3",
+			"v_value":"ESCOPETA"
+		},
+		{
+			"v_key":"armas_4",
+			"v_value":"FRANCOTIRADOR"
+		},
+		{
+			"v_key":"armas_5",
+			"v_value":"ESPADA"
+		},
+		{
+			"v_key":"armas_6",
+			"v_value":"CURATIVO"
+		},
+		{
+			"v_key":"armas_7",
+			"v_value":"VENENOSA"
+		},
+		{
+			"v_key":"armas_8",
+			"v_value":"CONGELANTE"
+		},
+		{
+			"v_key":"armas_9",
+			"v_value":"Daño"
+		},
+		{
+			"v_key":"armas_10",
+			"v_value":"RANGO"
+		},
+		{
+			"v_key":"armas_11",
+			"v_value":"Recarga"
+		},
+		{
+			"v_key":"armas_12",
+			"v_value":"Congelante"
+		},
+		{
+			"v_key":"armas_13",
+			"v_value":"INFORMACIÓN/USO"
+		},
+		{
+			"v_key":"tienda_item",
+			"v_value":"Tienda de items "
+		},
+		{
+			"v_key":"creditos_min",
+			"v_value":"Créditos"
+		},
+		{
+			"v_key":"creditos_may",
+			"v_value":"CRÉDITOS"
+		},
+		{
+			"v_key":"dummy",
+			"v_value":"SEÑUELO"
+		},
+		{
+			"v_key":"mina",
+			"v_value":"MINA"
+		},
+		{
+			"v_key":"hechizo",
+			"v_value":"HECHIZO"
+		},
+{
+			"v_key":"item_1",
+			"v_value":"EFECTO"
+		},
+		{
+			"v_key":"menu_pausa",
+			"v_value":"El menu de pausa y letretos finales"
+		},
+		{
+			"v_key":"confirma_4_0",
+			"v_value":"Rendirse"
+		},
+		{
+			"v_key":"confirma_4_1",
+			"v_value":"Se guardará tu puntaje ¿Estás seguro?"
+		},
+		{
+			"v_key":"confirma_4_2",
+			"v_value":"Salir al menú"
+		},
+		{
+			"v_key":"confirma_4_3",
+			"v_value":"No se guardará tu puntaje ¿Estás seguro?"
+		},
+		{
+			"v_key":"tiempo_oleada",
+			"v_value":"Tiempo para la siguiente oleada"
+		},
+		{
+			"v_key":"perdido_1",
+			"v_value":"Objeto mágico destruido"
+		},
+		{
+			"v_key":"perdido_2",
+			"v_value":"Todas las oleadas terminadas"
+		},
+		{
+			"v_key":"perdido_3",
+			"v_value":"Jugador muerto"
+		},
+		{
+			"v_key":"avisos",
+			"v_value":"Avisos en la cara del jugador durante el juego"
+		},
+		{
+			"v_key":"avisos_1",
+			"v_value":"Señuelo en posición incorrecta, regresa a la tienda"
+		},
+		{
+			"v_key":"avisos_2",
+			"v_value":"Objeto obstruye la visión de control y tu cuerpo"
+		},
+		{
+			"v_key":"avisos_3",
+			"v_value":"Objeto obstruye la visión del arma y tu cuerpo"
+		},
+		{
+			"v_key":"avisos_4",
+			"v_value":"Arma vacía no puede usarse, ve a la tienda para recargar"
+		},
+		{
+			"v_key":"avisos_5",
+			"v_value":"Espada rota, ve a la tienda para repararla"
+		},
+		{
+			"v_key":"avisos_6",
+			"v_value":"Arma recargando, espera un momento"
+		},
+		{
+			"v_key":"avisos_7",
+			"v_value":"Oleada terminada"
+		},
+		{
+			"v_key":"avisos_8",
+			"v_value":"Oleada iniciada"
+		}
+	]
+}

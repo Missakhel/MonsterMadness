@@ -1,0 +1,365 @@
+fileFormatVersion: 2
+guid: 7e38e5eb34b32f344a46b3d018a2aac7
+timeCreated: 1534525678
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Base Human
+    100002: Base HumanHead
+    100004: Base HumanJaw
+    100006: Base HumanLArmCollarbone
+    100008: Base HumanLArmDigit11
+    100010: Base HumanLArmDigit12
+    100012: Base HumanLArmDigit21
+    100014: Base HumanLArmDigit22
+    100016: Base HumanLArmDigit31
+    100018: Base HumanLArmDigit32
+    100020: Base HumanLArmForearm
+    100022: Base HumanLArmPalm
+    100024: Base HumanLArmUpperarm
+    100026: Base HumanLLegCalf
+    100028: Base HumanLLegDigit11
+    100030: Base HumanLLegFoot
+    100032: Base HumanLLegPlatform
+    100034: Base HumanLLegThigh
+    100036: Base HumanNeck
+    100038: Base HumanPelvis
+    100040: Base HumanRCalf
+    100042: Base HumanRCollarbone
+    100044: Base HumanRDigit11
+    100046: Base HumanRDigit11 1
+    100048: Base HumanRDigit12
+    100050: Base HumanRDigit21
+    100052: Base HumanRDigit22
+    100054: Base HumanRDigit31
+    100056: Base HumanRDigit32
+    100058: Base HumanRFoot
+    100060: Base HumanRForearm
+    100062: Base HumanRibcage
+    100064: Base HumanRibcageBone001
+    100066: Base HumanRibcageBone001Bone001
+    100068: Base HumanRibcageBone001Bone001 1
+    100070: Base HumanRibcageBone001Bone001Bone001
+    100072: Base HumanRibcageBone001Bone001Bone001 1
+    100074: Base HumanRibcageBone001Bone001Bone001Bone001
+    100076: Base HumanRibcageBone001Bone001Bone001Bone001 1
+    100078: Base HumanRibcageBone001Bone001Bone001Bone001Bone001
+    100080: Base HumanRibcageBone001Bone001Bone001Bone001Bone001 1
+    100082: Base HumanRibcageBone001Bone001Bone002
+    100084: Base HumanRibcageBone001Bone001Bone002 1
+    100086: Base HumanRibcageBone001Bone001Bone002Bone001
+    100088: Base HumanRibcageBone001Bone001Bone002Bone001 1
+    100090: Base HumanRibcageBone002
+    100092: Base HumanRPalm
+    100094: Base HumanRPlatform
+    100096: Base HumanRThigh
+    100098: Base HumanRUpperarm
+    100100: Base HumanSpine1
+    100102: Base HumanSpine2
+    100104: Base HumanSpine3
+    100106: Base HumanTail1
+    100108: Base HumanTail2
+    100110: Base HumanTail3
+    100112: Base HumanTail4
+    100114: Base HumanTail5
+    100116: Base HumanTail6
+    100118: Base HumanTail7
+    100120: MSH_Chupacabra
+    100122: //RootNode
+    100124: MSH_Chupacabra_Eyes
+    100126: MSH_Chupacabra_Skull
+    400000: Base Human
+    400002: Base HumanHead
+    400004: Base HumanJaw
+    400006: Base HumanLArmCollarbone
+    400008: Base HumanLArmDigit11
+    400010: Base HumanLArmDigit12
+    400012: Base HumanLArmDigit21
+    400014: Base HumanLArmDigit22
+    400016: Base HumanLArmDigit31
+    400018: Base HumanLArmDigit32
+    400020: Base HumanLArmForearm
+    400022: Base HumanLArmPalm
+    400024: Base HumanLArmUpperarm
+    400026: Base HumanLLegCalf
+    400028: Base HumanLLegDigit11
+    400030: Base HumanLLegFoot
+    400032: Base HumanLLegPlatform
+    400034: Base HumanLLegThigh
+    400036: Base HumanNeck
+    400038: Base HumanPelvis
+    400040: Base HumanRCalf
+    400042: Base HumanRCollarbone
+    400044: Base HumanRDigit11
+    400046: Base HumanRDigit11 1
+    400048: Base HumanRDigit12
+    400050: Base HumanRDigit21
+    400052: Base HumanRDigit22
+    400054: Base HumanRDigit31
+    400056: Base HumanRDigit32
+    400058: Base HumanRFoot
+    400060: Base HumanRForearm
+    400062: Base HumanRibcage
+    400064: Base HumanRibcageBone001
+    400066: Base HumanRibcageBone001Bone001
+    400068: Base HumanRibcageBone001Bone001 1
+    400070: Base HumanRibcageBone001Bone001Bone001
+    400072: Base HumanRibcageBone001Bone001Bone001 1
+    400074: Base HumanRibcageBone001Bone001Bone001Bone001
+    400076: Base HumanRibcageBone001Bone001Bone001Bone001 1
+    400078: Base HumanRibcageBone001Bone001Bone001Bone001Bone001
+    400080: Base HumanRibcageBone001Bone001Bone001Bone001Bone001 1
+    400082: Base HumanRibcageBone001Bone001Bone002
+    400084: Base HumanRibcageBone001Bone001Bone002 1
+    400086: Base HumanRibcageBone001Bone001Bone002Bone001
+    400088: Base HumanRibcageBone001Bone001Bone002Bone001 1
+    400090: Base HumanRibcageBone002
+    400092: Base HumanRPalm
+    400094: Base HumanRPlatform
+    400096: Base HumanRThigh
+    400098: Base HumanRUpperarm
+    400100: Base HumanSpine1
+    400102: Base HumanSpine2
+    400104: Base HumanSpine3
+    400106: Base HumanTail1
+    400108: Base HumanTail2
+    400110: Base HumanTail3
+    400112: Base HumanTail4
+    400114: Base HumanTail5
+    400116: Base HumanTail6
+    400118: Base HumanTail7
+    400120: MSH_Chupacabra
+    400122: //RootNode
+    400124: MSH_Chupacabra_Eyes
+    400126: MSH_Chupacabra_Skull
+    4300000: MSH_Chupacabra
+    4300002: MSH_Chupacabra_Eyes
+    4300004: MSH_Chupacabra_Skull
+    7400000: ANM_Chupacabra_Boss_Idle
+    7400002: ANM_Chupacabra_Boss_Attack01
+    7400004: ANM_Chupacabra_Boss_Move
+    7400006: ANM_Chupacabra_Boss_Death
+    9500000: //RootNode
+    13700000: MSH_Chupacabra
+    13700002: MSH_Chupacabra_Eyes
+    13700004: MSH_Chupacabra_Skull
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: ANM_Chupacabra_Boss_Idle
+      takeName: Take 001
+      firstFrame: 5
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ANM_Chupacabra_Boss_Attack01
+      takeName: Take 001
+      firstFrame: 30
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.41694912
+        functionName: Activar
+        data: 
+        objectReferenceParameter: {fileID: 1570073477625766, guid: 84f397298b5d7454ba2b40401ed82438,
+          type: 2}
+        floatParameter: 1
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.67796606
+        functionName: Activar
+        data: 
+        objectReferenceParameter: {fileID: 1570073477625766, guid: 84f397298b5d7454ba2b40401ed82438,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ANM_Chupacabra_Boss_Move
+      takeName: Take 001
+      firstFrame: 60
+      lastFrame: 84
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ANM_Chupacabra_Boss_Death
+      takeName: Take 001
+      firstFrame: 90
+      lastFrame: 110
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: Fn_Layer
+        data: 
+        objectReferenceParameter: {fileID: 1570073477625766, guid: 84f397298b5d7454ba2b40401ed82438,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.92542386
+        functionName: Fn_Muerte
+        data: 
+        objectReferenceParameter: {fileID: 1570073477625766, guid: 84f397298b5d7454ba2b40401ed82438,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

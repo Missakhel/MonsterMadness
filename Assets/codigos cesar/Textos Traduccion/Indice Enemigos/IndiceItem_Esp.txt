@@ -1,0 +1,22 @@
+{
+	"info":[
+		{
+			"v_nombre":"dummy",
+			"v_infoEfecto":"Los enemigos que pasen cerca del obstaculo, lo van a atacar primero antes que al cristal",
+			"v_prefab":"Items/Ind_Dummy",
+			"v_InfoExtra":""
+		},
+		{
+			"v_nombre":"mina",
+			"v_infoEfecto":"Cuando un enemigo pase sobre ella, explotará provocandole daño a los enemigos que se encuentren en rango",
+			"v_prefab":"Items/Ind_Mina",
+			"v_InfoExtra":""
+		},
+		{
+			"v_nombre":"hechizo",
+			"v_infoEfecto":"Al tocar el piso, se eliminará a todo los enemigos en el nivel",
+			"v_prefab":"Items/Ind_Hechizo",
+			"v_InfoExtra":""
+		}
+	]
+}
