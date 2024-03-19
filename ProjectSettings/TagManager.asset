@@ -15,6 +15,8 @@ TagManager:
   - FxTemporaire
   - ObjColision
   - NoElimina
+  - Left Hand
+  - Right Hand
   layers:
   - Default
   - TransparentFX
@@ -32,8 +34,8 @@ TagManager:
   - Ventana
   - Player
   - "MiniCaba\xF1a"
-  - 
-  - 
+  - Direct Interaction
+  - Ray Interaction
   - 
   - 
   - 
